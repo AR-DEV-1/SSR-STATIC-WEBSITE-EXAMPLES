@@ -1,4 +1,4 @@
-// pages/index.js
+// pages/index.jsx
 import React from 'react';
 
 const HomePage = ({ serverRenderedData }) => {
